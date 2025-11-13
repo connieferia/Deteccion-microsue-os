@@ -1,4 +1,4 @@
-# Detección de Microsueño en Sistemas Operativos
+# Detección de Microsueño en Conductores
 
 ![Estado del proyecto](https://img.shields.io/badge/estado-en%20desarrollo-yellow)
 ![Python](https://img.shields.io/badge/python-3.8%2B-blue)
